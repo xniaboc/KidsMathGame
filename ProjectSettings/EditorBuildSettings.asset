@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CompanyLogo.unity
+    guid: b01a1bbd66f21e04ca2132d622b1cb3a
+  - enabled: 1
+    path: Assets/Scenes/IntroScreen.unity
+    guid: 2143a02812694ec43845a415998e5114
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 822a01f0c626c9c489de5065884ebc8f
+  - enabled: 1
+    path: Assets/Scenes/MultiplicationScene.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/AdditionScene.unity
+    guid: 0619bfa7dc7546c4da8478fa90e467e0
+  - enabled: 1
+    path: Assets/Scenes/SubtractionScene.unity
+    guid: 642459a6222edba469e7b925577294b9
+  - enabled: 1
+    path: Assets/Scenes/DivisionScene.unity
+    guid: 6c8666769357bc4459199ba9689b5c0c
+  - enabled: 1
+    path: Assets/Scenes/MultiplicationChallengeScene.unity
+    guid: b0f8c9e1b60c46841b7f25bd7943dd7a
+  - enabled: 1
+    path: Assets/Scenes/LeaderboardScene.unity
+    guid: 3211adb39e553654eae31bf742ab5507
+  - enabled: 1
+    path: Assets/Scenes/PatternScene.unity
+    guid: 8fc32dc9151bd824cace9b3f062a2405
+  - enabled: 1
+    path: Assets/Scenes/HelperChartScene.unity
+    guid: bce08f5c50238fd4a9bc6e4883d94654
+  - enabled: 1
+    path: Assets/Scenes/SquareRootScene.unity
+    guid: 29a180f5b03a6454fa4ce685872d54b6
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: a0910c967fa99154799bcfa08ab4cd8c, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: ef155b0be23bbce408bc7eaaf5313c46, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: bcb79c707abf0d6439ff040de459be6d, type: 2}
